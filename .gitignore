@@ -1,0 +1,9 @@
+.mlbpicker_cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+dist/
+build/
+*.egg-info/

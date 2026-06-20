@@ -1,0 +1,56 @@
+{
+  "game_date": "2026-06-04",
+  "pitcher": {
+    "name": "Example Starter",
+    "handedness": "R",
+    "season_k_per_9": 10.2,
+    "season_bb_per_9": 2.4,
+    "season_pitch_count_avg": 92,
+    "expected_pitch_count": 96
+  },
+  "opponent": {
+    "team": "Example Opponent",
+    "projected_batter_k_rate": 0.246,
+    "projected_lineup_confirmed": false,
+    "vs_pitcher_handedness_k_rate": 0.252
+  },
+  "venue": {
+    "name": "Example Park",
+    "park_k_factor": 1.03
+  },
+  "weather": {
+    "temperature_f": 72,
+    "wind_mph": 8,
+    "wind_direction": "cross",
+    "precipitation_risk": 0.1,
+    "roof_closed": false
+  },
+  "recent_starts": [
+    {
+      "date": "2026-05-29",
+      "innings_pitched": 6.0,
+      "strikeouts": 8,
+      "pitches": 94,
+      "opponent": "Recent Opponent A"
+    },
+    {
+      "date": "2026-05-23",
+      "innings_pitched": 5.2,
+      "strikeouts": 6,
+      "pitches": 89,
+      "opponent": "Recent Opponent B"
+    },
+    {
+      "date": "2026-05-17",
+      "innings_pitched": 6.1,
+      "strikeouts": 7,
+      "pitches": 98,
+      "opponent": "Recent Opponent C"
+    }
+  ],
+  "matchup_history": {
+    "plate_appearances": 18,
+    "strikeouts": 6
+  }
+}
+
